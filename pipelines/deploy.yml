@@ -1,0 +1,4 @@
+# Starter pipeline missing required deployment-approval field
+name: sample-deploy
+steps:
+  - run: echo "Deploying..."
